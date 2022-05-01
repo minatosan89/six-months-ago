@@ -1,8 +1,8 @@
-//═══════[© 2022 nexusNw Inc.]════════\\
+//═══════[© 2022 nexusNw by ᎷＩN么ᎢＯ⁴⚡ Inc.]════════\\
 
 //
 //
-//                      𝙰𝚜𝚝𝚊 𝚋𝚢 𝚗𝚎𝚡𝚞𝚜𝚗𝚠
+//                      𝙰𝚜𝚝𝚊 𝚋𝚢 ᎷＩN么ᎢＯ⁴⚡
 //
 //                     𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙-𝙼𝙳 𝙱𝚘𝚝
 //
@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['923087880256'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['923087880256'] //another owner number
-global.premium = ['923087880256'] //premium number
-global.pengguna = 'Nexus' //username
-global.botnma = 'Ari Ani' //bot name
-global.ownernma = '👻Ari' //owner name
-global.packname = 'Ani' //sticker package name
-global.author = 'By Aku' //sticker author name
+global.owner = ['917863912273'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['917863912273'] //another owner number
+global.premium = ['917863912273'] //premium number
+global.pengguna = 'NEXUS' //username
+global.botnma = 'assistant minato' //bot name
+global.ownernma = '👻ᎷＩN么ᎢＯ⁴⚡' //owner name
+global.packname = 'assistant minato' //sticker package name
+global.author = 'By ᎷＩN么ᎢＯ⁴⚡' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
